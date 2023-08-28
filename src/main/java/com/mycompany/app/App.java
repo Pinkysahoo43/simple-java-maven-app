@@ -15,7 +15,6 @@ public class App {
 
     public String getMessage() {
         System.out.println("Hello");
-        System.out.println("Hello2");
         return MESSAGE;
     }
 }
